@@ -7,9 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nano112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harrison's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Nano112/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nano112&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <!--
 **Nano112/Nano112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
