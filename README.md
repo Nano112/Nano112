@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano112&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Nano112/Nano112">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano112&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Nano112/Nano112">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nano112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harrison's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Nano112/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nano112&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!--
 **Nano112/Nano112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
